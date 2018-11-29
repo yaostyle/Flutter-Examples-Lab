@@ -4,4 +4,6 @@ as I go through the list of widgets.
 
 # Widget List
 - Stateful Widget (/stateful_widget_example)
+- Stateless Widget (/stateless_widgets_example)
 - GridView Widget (/gridview_widget_example)
+

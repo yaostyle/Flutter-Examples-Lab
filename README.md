@@ -9,3 +9,4 @@ as I go through the list of widgets.
 - Theming (/theming_example)
 - Tabs (/tabs_example)
 - Stepper (/stepper_example)
+- Snackbar (/snackbar_example)

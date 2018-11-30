@@ -8,4 +8,4 @@ as I go through the list of widgets.
 - GridView Widget (/gridview_widget_example)
 - Theming (/theming_example)
 - Tabs (/tabs_example)
-
+- Stepper (/stepper_example)

@@ -7,4 +7,5 @@ as I go through the list of widgets.
 - Stateless Widget (/stateless_widgets_example)
 - GridView Widget (/gridview_widget_example)
 - Theming (/theming_example)
+- Tabs (/tabs_example)
 

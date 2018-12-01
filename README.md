@@ -11,3 +11,4 @@ as I go through the list of widgets.
 - Stepper (/stepper_example)
 - Snackbar (/snackbar_example)
 - ListView (/listview_example)
+- HTTP/GET (/http_get_example)

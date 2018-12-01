@@ -12,3 +12,4 @@ as I go through the list of widgets.
 - Snackbar (/snackbar_example)
 - ListView (/listview_example)
 - HTTP/GET (/http_get_example)
+- Gradient (/gradient_example)

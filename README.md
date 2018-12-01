@@ -13,3 +13,4 @@ as I go through the list of widgets.
 - ListView (/listview_example)
 - HTTP/GET (/http_get_example)
 - Gradient (/gradient_example)
+- EditText (/edittext_example)

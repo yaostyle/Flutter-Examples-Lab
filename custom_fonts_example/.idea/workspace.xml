@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="192d9238-489b-409a-aca3-2dcbde5be1bc" name="Default Changelist" comment="" />
+    <list default="true" id="4caa24e5-0dcd-469f-8f5d-959b17171919" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/utils.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edittext_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../edittext_example/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -17,18 +21,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+            <state relative-caret-position="209">
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/lib/utils.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -37,6 +55,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test/widget_test.dart" />
+        <option value="$PROJECT_DIR$/lib/utils.dart" />
         <option value="$PROJECT_DIR$/lib/main.dart" />
       </list>
     </option>
@@ -56,29 +75,30 @@
         <subPane>
           <expand>
             <path>
-              <item name="edittext_example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edittext_example" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_fonts_example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="custom_fonts_example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="edittext_example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edittext_example" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_fonts_example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="custom_fonts_example" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="edittext_example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edittext_example" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_fonts_example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="custom_fonts_example" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543647208688" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -101,16 +121,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="192d9238-489b-409a-aca3-2dcbde5be1bc" name="Default Changelist" comment="" />
-      <created>1543645951708</created>
+      <changelist id="4caa24e5-0dcd-469f-8f5d-959b17171919" name="Default Changelist" comment="" />
+      <created>1543646362062</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543645951708</updated>
+      <updated>1543646362062</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="949" height="819" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
       <window_info id="Structure" side_tool="true" />
@@ -120,16 +141,16 @@
       <window_info id="Designer" />
       <window_info id="Captures" />
       <window_info id="UI Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27221596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25084364" />
       <window_info anchor="bottom" id="Dart Analysis" weight="0.356623" />
       <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Run" visible="true" weight="0.32896653" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Run" weight="0.32896653" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Ant Build" />
@@ -146,10 +167,20 @@
     <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="209">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

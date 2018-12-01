@@ -14,3 +14,4 @@ as I go through the list of widgets.
 - HTTP/GET (/http_get_example)
 - Gradient (/gradient_example)
 - EditText (/edittext_example)
+- Custom Fonts (/custom_fonts_example)

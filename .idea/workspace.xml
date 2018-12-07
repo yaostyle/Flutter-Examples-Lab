@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5abd93e-2481-4190-a944-50fe8e87418e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Flutter_for_Android.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.idea/libraries/Flutter_for_Android.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/custom_fonts_example_android.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/lib/utils.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_fonts_example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/custom_fonts_example/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2560" />
+    <option name="y" value="36" />
+    <option name="width" value="1383" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5abd93e-2481-4190-a944-50fe8e87418e" name="Default Changelist" comment="" />
+      <created>1543884945778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543884945778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2560" y="36" width="1383" height="951" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

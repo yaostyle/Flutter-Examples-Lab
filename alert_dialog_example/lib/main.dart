@@ -26,7 +26,7 @@ class MyAppState extends State<MyApp> {
             child: Text("Press me to alert."),
             onPressed: () {
               showDialog(
-                  context: context, builder: (BuildContext context) => dialog);
+                  context: context, builder: (_) => dialog);
             },
           ),
         ),

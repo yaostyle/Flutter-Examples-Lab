@@ -18,3 +18,4 @@ as I go through the list of widgets.
 - Bottom NavBar (/bottom_navbar_example)
 - Alert Dialog (/alert_dialog_example)
 - Tips Calculator (/tips_cal_example)
+- Material App's Hello World (/materialapp_helloworld_example)

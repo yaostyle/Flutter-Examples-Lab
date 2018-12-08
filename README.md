@@ -15,3 +15,4 @@ as I go through the list of widgets.
 - Gradient (/gradient_example)
 - EditText (/edittext_example)
 - Custom Fonts (/custom_fonts_example)
+- Bottom NavBar (/bottom_navbar_example)

@@ -16,3 +16,4 @@ as I go through the list of widgets.
 - EditText (/edittext_example)
 - Custom Fonts (/custom_fonts_example)
 - Bottom NavBar (/bottom_navbar_example)
+- Alert Dialog (/alert_dialog_example)

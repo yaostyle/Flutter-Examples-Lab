@@ -17,3 +17,4 @@ as I go through the list of widgets.
 - Custom Fonts (/custom_fonts_example)
 - Bottom NavBar (/bottom_navbar_example)
 - Alert Dialog (/alert_dialog_example)
+- Tips Calculator (/tips_cal_example)

@@ -21,3 +21,4 @@ as I go through the list of widgets.
 - Material App's Hello World (/materialapp_helloworld_example)
 - Presist Key Value (/presist_key_value_example)
 - Navigation Drawer (/nav_drawer_example)
+- Local JSON (/local_json_example)

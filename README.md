@@ -27,3 +27,4 @@ as I go through the list of widgets.
 - Online Image Example (/online_image_example)
 - Routes (/routes_example)
 - Google Sign-In (/google_signin_example)
+- Splash Screen (/splash_screen_example)

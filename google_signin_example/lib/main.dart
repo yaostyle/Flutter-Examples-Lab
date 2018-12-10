@@ -1,0 +1,89 @@
+import 'package:flutter/material.dart';
+import 'dart:async';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+
+import 'home.dart';
+import 'user.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatefulWidget {
+  MyAppState createState() => MyAppState();
+}
+
+class MyAppState extends State<MyApp> {
+  String _username = "";
+  Widget currentPage;
+  GoogleSignIn googleSignIn;
+  Widget userPage;
+
+  @override
+  void initState() {
+    super.initState();
+    userPage = Home(
+      onSignin: () {
+        _signin();
+        print("Sign");
+      },
+      onLogout: _logout,
+      showLoading: false,
+    );
+  }
+
+  Future<FirebaseUser> _signin() async {
+    setState(() {
+      userPage = Home(
+        onSignin: null,
+        onLogout: _logout,
+        showLoading: true,
+      );
+    });
+
+    FirebaseAuth _auth = FirebaseAuth.instance;
+    try {
+      googleSignIn = GoogleSignIn();
+      GoogleSignInAccount googleSignInAccount = await googleSignIn.signIn();
+      GoogleSignInAuthentication gauth = 
+        await googleSignInAccount.authentication;
+
+      FirebaseUser user = await _auth.signInWithGoogle(
+        accessToken: gauth.accessToken,
+        idToken: gauth.idToken,
+      );
+
+      setState((){
+        _username = user.displayName;
+        userPage = User(
+          onLogout: _logout,
+          user: user,
+        );
+      });
+      return user;
+    } catch (e) {
+      print(e.toString());
+    }
+    return null;
+  }
+
+  void _logout() async {
+    await googleSignIn.signOut();
+    setState((){
+      userPage = Home(
+        onSignin: () {
+          _signin();
+          print("Sign");
+        },
+        onLogout: _logout,
+        showLoading: false,
+      );
+    });
+
+    print("Logged Out");
+  }
+
+  @override
+    Widget build(BuildContext context) {
+      return MaterialApp(home: userPage);
+    }
+}

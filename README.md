@@ -26,3 +26,4 @@ as I go through the list of widgets.
 - Infinite List (/infinite_list_example)
 - Online Image Example (/online_image_example)
 - Routes (/routes_example)
+- Google Sign-In (/google_signin_example)

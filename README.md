@@ -23,3 +23,4 @@ as I go through the list of widgets.
 - Navigation Drawer (/nav_drawer_example)
 - Local JSON (/local_json_example)
 - Local Image (/local_image_example)
+- Infinite List (/infinite_list_example)

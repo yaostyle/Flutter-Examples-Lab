@@ -1,6 +1,5 @@
 # Flutter Examples Lab
-This is my own Flutter widget workshops based of this [forked repo](https://github.com/nisrulz/flutter-examples). I will be constantly update it 
-as I go through the list of widgets. 
+This is my own Flutter widget workshops based of this [forked repo](https://github.com/nisrulz/flutter-examples). 
 
 # Widget List
 - Stateful Widget (/stateful_widget_example)
@@ -28,3 +27,4 @@ as I go through the list of widgets.
 - Routes (/routes_example)
 - Google Sign-In (/google_signin_example)
 - Splash Screen (/splash_screen_example)
+- DropDown Button (/dropdown_button_example)

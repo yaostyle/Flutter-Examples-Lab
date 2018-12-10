@@ -25,3 +25,4 @@ as I go through the list of widgets.
 - Local Image (/local_image_example)
 - Infinite List (/infinite_list_example)
 - Online Image Example (/online_image_example)
+- Routes (/routes_example)

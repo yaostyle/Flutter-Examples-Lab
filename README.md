@@ -4,11 +4,12 @@
 This is my own Flutter widget workshops based of this [forked repo](https://github.com/nisrulz/flutter-examples). 
 
 # Widget List
-## 09/04/2019 Update
+### 2019 Update
  - http (2019/http_example)
  - layouts (2019/layouts_example)
+ - lists (2019/lists_example)
 
-## Other Examples
+### Other Examples
 - Stateful Widget (/stateful_widget_example)
 - Stateless Widget (/stateless_widgets_example)
 - GridView Widget (/gridview_widget_example)

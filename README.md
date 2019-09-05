@@ -12,6 +12,7 @@ This is my own Flutter widget workshops based of this [forked repo](https://gith
  - stacks (2019/stacks_example)
  - json parsing (2019/json_parsing_example)
  - streams (2019/streams_example)
+ - buttom nav bar (2019/buttom_nav_bar_example)
 
 ### Other Examples
 - Stateful Widget (/stateful_widget_example)

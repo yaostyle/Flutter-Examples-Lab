@@ -8,6 +8,7 @@ This is my own Flutter widget workshops based of this [forked repo](https://gith
  - http (2019/http_example)
  - layouts (2019/layouts_example)
  - lists (2019/lists_example)
+ - dyanmic lists (2019/dynamic_lists_example)
 
 ### Other Examples
 - Stateful Widget (/stateful_widget_example)

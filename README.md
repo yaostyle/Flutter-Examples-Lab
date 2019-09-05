@@ -13,6 +13,7 @@ This is my own Flutter widget workshops based of this [forked repo](https://gith
  - json parsing (2019/json_parsing_example)
  - streams (2019/streams_example)
  - buttom nav bar (2019/buttom_nav_bar_example)
+ - modal bottom sheet (2019/modal_bottom_sheet_example)
 
 ### Other Examples
 - Stateful Widget (/stateful_widget_example)

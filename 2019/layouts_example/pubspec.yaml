@@ -1,4 +1,4 @@
-name: http_example
+name: layouts_example
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -17,11 +17,9 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  flutter: 
+  flutter:
     sdk: flutter
 
-  http:
-    
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2

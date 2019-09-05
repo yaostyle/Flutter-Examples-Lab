@@ -1,10 +1,12 @@
 # Flutter Examples Lab
-Additional workshop based of [mjohnsullivan's repo](https://github.com/mjohnsullivan/flutter-by-example)
+2019 - Additional workshop based of [mjohnsullivan's repo](https://github.com/mjohnsullivan/flutter-by-example)
+
 This is my own Flutter widget workshops based of this [forked repo](https://github.com/nisrulz/flutter-examples). 
 
 # Widget List
 ## 09/04/2019 Update
- - http (/2019/http_example)
+ - http (2019/http_example)
+ - layouts (2019/layouts_example)
 
 ## Other Examples
 - Stateful Widget (/stateful_widget_example)

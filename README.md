@@ -17,6 +17,7 @@ This is my own Flutter widget workshops based of this [forked repo](https://gith
  - presistent bottom sheet (2019/presistent_bottom_sheet_example)
  - page view (2019/page_view_example)
  - align (2019/align_example)
+ - slivers (2019/slivers_example)
 
 ### Other Examples
 - Stateful Widget (/stateful_widget_example)

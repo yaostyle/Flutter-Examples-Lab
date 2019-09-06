@@ -61,7 +61,7 @@ class AlignExamples extends StatelessWidget {
           ),
         ),
         Flexible(
-          flex: 2,
+          flex: 1,
           child: Container(
             color: Colors.black12,
             child: Align(
